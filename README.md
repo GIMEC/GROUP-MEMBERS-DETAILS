@@ -1,0 +1,5 @@
+# GROUP-MEMBERS-DETAILS
+This repository includes names of group members, their registration numbers and courses they offer at Makerere University
+AYEBARE K GEORGINAH 16/U/159 Bsc. TELECOMMUNICATIONS ENGINEEERING
+KIRABO MELISSA 16/U/452 Bsc. ELECTRICAL ENGINEERING
+JEAN CLEMENT SEKIRANDA 16/U/1098 Bsc. ELECTRICAL ENGINEERING
